@@ -12,4 +12,3 @@
 	- 按照数量（by quantity)
 - 将数据集划分成训练集、验证集、测试集（partition dataset）
 - 将VOC格式转换为YOLO格式(xml to txt)
-# tool
